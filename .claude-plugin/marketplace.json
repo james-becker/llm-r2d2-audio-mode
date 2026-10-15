@@ -1,0 +1,16 @@
+{
+  "name": "r2d2-mode",
+  "owner": {
+    "name": "James Becker"
+  },
+  "metadata": {
+    "description": "R2D2 sound effects for Claude Code (also works with Cursor and Codex via install.sh)."
+  },
+  "plugins": [
+    {
+      "name": "r2d2",
+      "source": "./plugins/r2d2",
+      "description": "R2D2 chirps while Claude works, a happy beep when it's done, and a warble when it needs you."
+    }
+  ]
+}

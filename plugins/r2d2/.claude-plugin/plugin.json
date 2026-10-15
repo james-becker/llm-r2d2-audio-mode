@@ -1,0 +1,10 @@
+{
+  "name": "r2d2",
+  "version": "2.1.0",
+  "description": "R2D2 chirps while Claude works, a happy beep when it's done, and a warble when it needs you.",
+  "author": {
+    "name": "James Becker"
+  },
+  "license": "MIT",
+  "keywords": ["sound", "notifications", "hooks", "fun"]
+}

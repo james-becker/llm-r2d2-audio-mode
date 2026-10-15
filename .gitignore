@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.wav
+*.r2d2-backup
+r2.log
+.claude/settings.local.json
