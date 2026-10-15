@@ -14,7 +14,7 @@ Sound effects for your coding agent. Works with **Claude Code**, **Cursor** and 
 ### Claude Code
 
 ```
-/plugin marketplace add <path to this folder, or this repo's git URL>
+/plugin marketplace add https://github.com/james-becker/llm-r2d2-audio-mode
 /plugin install r2d2@r2d2-mode
 ```
 
